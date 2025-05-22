@@ -1,0 +1,6 @@
+fred-api-app/
+├── main.py
+├── requirements.txt
+├── .gitignore
+├── render.yaml
+└── README.md
